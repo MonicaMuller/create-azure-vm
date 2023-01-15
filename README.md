@@ -66,6 +66,6 @@ Out of curiosity, I viewed the various components of my new VM using Network Wat
 <br />
 
 <p>
-😄 And that’s how I created a virtual machine in Azure! If you do the same, don’t forget to delete any Resource groups that were created if you want to minimize the charges to your free Azure credits.
+✨ And that’s how I created a virtual machine in Azure! If you do the same, don’t forget to delete any Resource groups that were created if you want to minimize the charges to your free Azure credits.
 </p>
 <br />
